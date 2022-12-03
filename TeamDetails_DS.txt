@@ -1,0 +1,11 @@
+Fill in the details (should be same as those while registering for CNI Hackathon):
+
+Team Name: Intelligence not Artificial
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name: Siddhant Sarthak
+Email ID: siddhant.sarthak06@gmail.com
+
+Team Member 2:
+Name: R. Vinayak
+Email ID: vinayak7784@gmail.com
